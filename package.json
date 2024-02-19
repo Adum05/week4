@@ -2,12 +2,12 @@
 	"name": "ts-starter",
 	"version": "1.0.0",
 	"description": "",
-	"main": "dist/index.js",
+	"main": "dist/indeex.js",
 	"types": "dist/index.module.d.ts",
 	"scripts": { 
 		"init": "npm i",
 		"lint": "eslint . --ext .ts",
-		"start": "nodemon src/index.ts",
+		"start": "nodemon src/indeex.ts",
 		"watch": "tsc --watch"
 	},
 	"license": "ISC",
